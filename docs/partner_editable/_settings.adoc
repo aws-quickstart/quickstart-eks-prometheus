@@ -16,9 +16,9 @@
 :eks_addin:
 :disable_regions:
 :disable_licenses:
-:launch_new_vpc: https://fwd.aws/EKAg7
-:launch_existing_vpc: https://fwd.aws/9DYrk
-:launch_existing_cluster: https://fwd.aws/a3pkr
-:template_new_vpc: https://fwd.aws/DgqPB
-:template_existing_vpc: https://fwd.aws/mbD5g
-:template_existing_cluster: https://fwd.aws/kqV5J
+:launch_new_vpc: https://fwd.aws/EKAg7?
+:launch_existing_vpc: https://fwd.aws/9DYrk?
+:launch_existing_cluster: https://fwd.aws/a3pkr?
+:template_new_vpc: https://fwd.aws/DgqPB?
+:template_existing_vpc: https://fwd.aws/mbD5g?
+:template_existing_cluster: https://fwd.aws/kqV5J?
